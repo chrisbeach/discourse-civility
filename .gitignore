@@ -1,0 +1,5 @@
+.idea
+.ivy2
+.sbt
+/db
+target
