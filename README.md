@@ -13,7 +13,7 @@ See discussion here: https://meta.discourse.org/t/evaluating-googles-perspective
 * Posts are truncated to fit the Perspective API's 3,000
 character limit
 
-## 1. Start Database with Discourse Backup
+## 1. Start Database Server, Populated From Discourse Backup
 
 Browse to `/admin/backups` on your forum and click **Backup**. Select
 "Yes (do not include files)." Click **Download** and you'll be mailed a
