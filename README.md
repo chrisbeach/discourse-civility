@@ -3,6 +3,8 @@
 Measure the civility of posts on your Discourse forum using
 [Google Perspective API](https://www.perspectiveapi.com/)
 
+See discussion here: https://meta.discourse.org/t/evaluating-googles-perspective-api-on-your-discourse-forum/79971
+
 #### Notes:
 
 * **Requires Docker to be installed**
